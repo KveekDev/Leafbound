@@ -1,0 +1,27 @@
+Items: {
+	Leaf: {
+		Tooltip: ""
+		DisplayName: Лист
+	}
+
+	GardenShears: {
+		DisplayName: Садовые ножницы
+		Tooltip: ""
+	}
+
+	LeafHelmet: {
+		DisplayName: Лиственный шлем
+		Tooltip: ""
+		SetBonus: Увеличивает скорость передвижения на 5%
+	}
+
+	LeafBreastplate: {
+		DisplayName: Лиственный нагрудник
+		Tooltip: ""
+	}
+
+	LeafGreaves: {
+		DisplayName: Лиственные поножи
+		Tooltip: ""
+	}
+}

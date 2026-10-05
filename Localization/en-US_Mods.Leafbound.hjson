@@ -1,0 +1,27 @@
+Items: {
+	Leaf: {
+		Tooltip: ""
+		DisplayName: Leaf
+	}
+
+	GardenShears: {
+		DisplayName: Garden Shears
+		Tooltip: ""
+	}
+
+	LeafHelmet: {
+		DisplayName: Leaf Helmet
+		Tooltip: ""
+		SetBonus: Increases movement speed by 5%
+	}
+
+	LeafBreastplate: {
+		DisplayName: Leaf Breastplate
+		Tooltip: ""
+	}
+
+	LeafGreaves: {
+		DisplayName: Leaf Greaves
+		Tooltip: ""
+	}
+}
